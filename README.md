@@ -26,6 +26,9 @@ A Python GUI application for grid-based pathfinding with multiple search algorit
 ## Setup
 
 ```bash
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install
 pip install -r requirements.txt
 python main.py
 ```
